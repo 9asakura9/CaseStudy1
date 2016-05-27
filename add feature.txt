@@ -1,1 +1,2 @@
 edit from feature 2
+add comment from feature 2
