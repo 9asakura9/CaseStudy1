@@ -1,2 +1,6 @@
 issue1 good
 issue2 bad
+
+edit
+issue1 clear
+issue2 clear
