@@ -1,0 +1,2 @@
+issue1 good
+issue2 bad
